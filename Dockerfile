@@ -1,4 +1,4 @@
-FROM python:2
+FROM python:3.7.4
 
 MAINTAINER Guilherme Heuser Prestes <guilherme.prestes@gmail.com>
 
